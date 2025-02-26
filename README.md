@@ -28,7 +28,7 @@
 
 - SVGIconImageList by EtheaDev <https://github.com/EtheaDev/SVGIconImageList>
 - DOSCommand by TurboPack <https://github.com/TurboPack/DOSCommand>
-- Virtual-TreeView by JAM-Software <https://github.com/JAM-Software/Virtual-TreeView>
+- Virtual-TreeView by JAM-Software <https://github.com/JAM-Software/Virtual-TreeView> ( Version as it was around July 2024, or the internal modifications won't work)
 - NetCom7 <https://github.com/DelphiBuilder/NetCom7>
 
 
